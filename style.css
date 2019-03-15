@@ -1,8 +1,20 @@
 h1{
-  color: blue;
+  color:#42f4b6;
+  font-family: cursive;
 }
 button {
-  background-color: lavender;
+  background-color: teal;
+  font-family: fantasy;
 
 }
-.hamiltonwrotetheother51
+body{
+  color:#aafff9;
+  font-style:italic;
+
+}
+div{
+  border:groove 4px navy;
+}
+img{
+  width:140px;
+}
