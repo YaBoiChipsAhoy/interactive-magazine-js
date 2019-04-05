@@ -1,5 +1,5 @@
 h1{
-  color:#42f4b6;
+  color:#black;
   font-family: cursive;
 }
 button {
@@ -8,12 +8,12 @@ button {
 
 }
 body{
-  color:#aafff9;
+  color:#black;
   font-style:italic;
 
 }
 div{
-  border:groove 4px navy;
+  border:groove 4px black;
 }
 img{
   width:140px;
